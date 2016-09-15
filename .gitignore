@@ -12,6 +12,7 @@
 
 # bundler state
 /.bundle
+.byebug_history
 /vendor/bundle/
 /vendor/ruby/
 
